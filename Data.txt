@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
+            "image_link": "https://iili.io/JJlJ4jV.webp",
+            "title": "Granny Remake 1",
+            "text_Content_": "The objective was simple yet nerve-wracking: escape from the house within five days while avoiding Granny's watchful eye. The game was celebrated for its suspenseful gameplay, clever puzzles, and jump scares that kept players on edge"
+        },
+        {
+            "image_link": "https://iili.io/JJlJ6ZB.webp",
+            "title": "Granny Remake 2",
+            "text_Content_": "It represented a labor of love from the developers at DVloper, who sought to enhance the horror experience and bring it to a wider audience. Here are some key aspects that make the remake stand out"
+        },
+        {
+            "image_link": "https://iili.io/JJlJrTQ.webp",
+            "title": "Granny Remake 3",
+            "text_Content_": "One of the most noticeable improvements in the remake is the upgraded graphics. The visuals are more detailed and immersive, creating a more terrifying atmosphere that draws players into the nightmarish world of Granny"
+        },
+        {
+            "image_link": "https://iili.io/JJlJiCP.webp",
+            "title": "Granny Remake 4",
+            "text_Content_": "The remake introduces new areas within Granny's house, providing players with fresh challenges and hiding spots. The expanded gameplay keeps fans of the original engaged while offering something new for them to discover"
+        },
+        {
+            "image_link": "https://iili.io/JJlJ8Yb.webp",
+            "title": "Granny Remake 5",
+            "text_Content_": "Granny's artificial intelligence has been refined in the remake. She reacts more realistically to player actions, making the game even more unpredictable and suspenseful. Players must think on their feet to outsmart her"
+        },
+        {
+            "image_link": "https://iili.io/JJlJUyx.webp",
+            "title": "Granny Remake 6",
+            "text_Content_": " The developers have made the Granny Remake accessible to a wider audience by releasing versions for both mobile devices and PCs. This move allows more gamers to experience the terror of Granny's house"
+        },
+        {
+            "image_link": "https://iili.io/JJlJv3u.webp",
+            "title": "Granny Remake 7",
             "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJlJSvj.webp",
+            "title": "Granny Remake 8",
+            "text_Content_": "The core gameplay of the Granny Remake remains true to its roots. Players must explore the house, solve puzzles, and avoid Granny at all costs. The tension is palpable as each creaking floorboard or misplaced step could lead to a terrifying encounter with the relentless old woman"
         }
     ]
 }
